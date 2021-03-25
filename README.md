@@ -1,1 +1,2 @@
-# player
+# synchronousBallMovement
+Ball moving synchronously
